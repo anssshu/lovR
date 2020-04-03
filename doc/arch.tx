@@ -1,0 +1,7 @@
+the file structure
+the game will be a finite state machine
+game_states will be added to it
+
+to the game_play states the world will be loaded and game entities will be added to the world .
+
+

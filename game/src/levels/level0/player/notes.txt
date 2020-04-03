@@ -1,0 +1,26 @@
+
+the player will consist of 5 components
+
+1)controls
+
+2)animation
+
+3)collisionHandler
+
+4)motion
+
+5)state machine
+
+
+the player is designed with the state machine philosophy
+the player will only jump from one state to the other
+
+current states are
+
+1)idle
+2)run
+3)jump
+4)attack1, attack2, attack3
+5)hit
+6)die
+7)walljump
